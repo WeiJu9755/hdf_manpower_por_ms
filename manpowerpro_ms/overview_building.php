@@ -151,7 +151,7 @@ $list_view
 			"paging": false,
 			"searching": false,  //禁用原生搜索
 			"ordering": false,
-			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpowerpro_ms/server_overview_building.php?site_db=$site_db&case_id=$case_id&seq=$seq",
+			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpower_ms/server_overview_building.php?site_db=$site_db&case_id=$case_id&seq=$seq",
 			"info": false,
 			"language": {
 						"sUrl": "$dataTable_de"

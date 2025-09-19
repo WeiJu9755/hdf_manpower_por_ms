@@ -515,7 +515,7 @@ $list_view
 			"pagingType": "full_numbers",  //分页样式： simple,simple_numbers,full,full_numbers
 			"searching": true,  //禁用原生搜索
 			"ordering": false,
-			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpowerpro_ms/server_manpower.php?site_db=$site_db&fm=$fm",
+			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpower_ms/server_manpower.php?site_db=$site_db&fm=$fm",
 			"language": {
 						"sUrl": "$dataTable_de"
 						/*"sUrl": '//cdn.datatables.net/plug-ins/1.12.1/i18n/zh-HANT.json'*/

@@ -112,7 +112,7 @@ $list_view
 			"paging": false,
 			"searching": false,  //禁用原生搜索
 			"ordering": false,
-			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpowerpro_ms/server_manpower_sub.php?site_db=$site_db&case_id=$case_id",
+			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpower_ms/server_manpower_sub.php?site_db=$site_db&case_id=$case_id",
 			"info": false,
 			"language": {
 						"sUrl": "$dataTable_de"
@@ -181,7 +181,7 @@ var templates = "$templates";
 var fm = "$fm"; 
 var skins = "$skins"; 
 
-var murl = '/smarty/templates/'+site_db+'/'+templates+'/sub_modal/project/func06/manpowerpro_ms/overview_building.php';
+var murl = '/smarty/templates/'+site_db+'/'+templates+'/sub_modal/project/func06/manpower_ms/overview_building.php';
 
 $.ajax({
 	url: murl,

@@ -202,7 +202,7 @@ $style_css
 			"pagingType": "full_numbers",  //分页样式： simple,simple_numbers,full,full_numbers
 			"searching": true,  //禁用原生搜索
 			"ordering": false,
-			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpowerpro_ms/server_overview_manpower_sub.php?site_db=$site_db&case_id=$case_id&seq=$seq&seq2=$seq2&fm=$fm",
+			"ajaxSource": "/smarty/templates/$site_db/$templates/sub_modal/project/func06/manpower_ms/server_overview_manpower_sub.php?site_db=$site_db&case_id=$case_id&seq=$seq&seq2=$seq2&fm=$fm",
 			"language": {
 						"sUrl": "$dataTable_de"
 						/*"sUrl": '//cdn.datatables.net/plug-ins/1.12.1/i18n/zh-HANT.json'*/

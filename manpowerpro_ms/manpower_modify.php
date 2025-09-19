@@ -377,7 +377,7 @@ EOT;
 
 
 $m_location		= "/website/smarty/templates/".$site_db."/".$templates;
-include $m_location."/sub_modal/project/func06/manpowerpro_ms/manpower_sub.php";
+include $m_location."/sub_modal/project/func06/manpower_ms/manpower_sub.php";
 
 
 
